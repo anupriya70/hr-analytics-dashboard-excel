@@ -7,11 +7,11 @@ The dashboard gives a clear visual view of workforce data, which helps in making
 ________________________________________
 
 **Key Insights**
-•	Total employees: 69 
-•	Attrition count: 15 
-•	Active employees: 54 
-•	Attrition rate: 21.74% 
-•	Average age: 38 
+	#Total employees: 69 
+  #Attrition count: 15 
+•	#Active employees: 54 
+•	#Attrition rate: 21.74% 
+•	#Average age: 38 
 
 ________________________________________
 
